@@ -1,0 +1,92 @@
+{
+  "medical-stores": [
+    {
+      "id": "7d4f",
+      "name": "Homio medicals",
+      "place": "Thavanur",
+      "imgUrl": "https://img.freepik.com/free-vector/pharmacist_23-2148185760.jpg?t=st=1736139782~exp=1736143382~hmac=d92811e0295c0a774300fbc95dfcf77ea80d8c1f56f23751f3194965d34d1b2b&w=740",
+      "medicines": [
+        {
+          "id": 1736247714839,
+          "name": "capsils",
+          "dose": "skin",
+          "description": "medicine for choma",
+          "quantity": "11"
+        },
+        {
+          "id": 1736250061438,
+          "name": "parecetamol",
+          "dose": "600",
+          "description": "fewer medicine have high dose use only when doctor prescibred",
+          "quantity": "10"
+        },
+        {
+          "id": 1736578461107,
+          "name": "dolo 650",
+          "dose": "600",
+          "description": "fewer medicine have high dose use only when doctor prescibred",
+          "quantity": "10"
+        },
+        {
+          "id": 1736579375500,
+          "name": "dolo",
+          "dose": "skin",
+          "description": "ffdwfed",
+          "quantity": "11"
+        },
+        {
+          "id": 1736593003832,
+          "name": "jjjj",
+          "dose": "600",
+          "description": "fewer medicine have high dose use only when doctor prescibred",
+          "quantity": "10"
+        }
+      ]
+    },
+    {
+      "id": "5dba",
+      "name": "Amana medicals",
+      "place": "kuttippuram",
+      "imgUrl": "https://th.bing.com/th/id/OIP.20Jfv15OermNMP7rH7Yg4AHaEO?w=1536&h=877&rs=1&pid=ImgDetMain",
+      "medicines": [
+        {
+          "id": 1736250183159,
+          "name": "parecetamol",
+          "dose": "600",
+          "description": "fewer medicine have high dose use only when doctor prescibred",
+          "quantity": "10"
+        }
+      ]
+    },
+    {
+      "id": "3c8c",
+      "name": "Healfort medicals",
+      "place": "kuttippuram",
+      "imgUrl": "https://img.freepik.com/free-vector/pharmacist_23-2148185760.jpg?t=st=1736139782~exp=1736143382~hmac=d92811e0295c0a774300fbc95dfcf77ea80d8c1f56f23751f3194965d34d1b2b&w=740",
+      "medicines": [
+        {
+          "id": 1736593219683,
+          "name": "dolo ",
+          "dose": "600",
+          "description": "fewer medicine have high dose use only when doctor prescibred",
+          "quantity": "10"
+        }
+      ]
+    },
+    {
+      "id": "a73b",
+      "name": "neema",
+      "place": "Thavanur",
+      "imgUrl": "https://th.bing.com/th/id/OIP.20Jfv15OermNMP7rH7Yg4AHaEO?w=1536&h=877&rs=1&pid=ImgDetMain",
+      "medicines": [
+        {
+          "id": 1736593685180,
+          "name": "solo",
+          "dose": "600",
+          "description": "fewer medicine have high dose use only when doctor prescibred",
+          "quantity": "50"
+        }
+      ]
+    }
+  ]
+}
